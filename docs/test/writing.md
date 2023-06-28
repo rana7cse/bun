@@ -217,12 +217,12 @@ Bun implements the following matchers. Full Jest compatibility is on the roadmap
 
 ---
 
-- 🔴
+- 🟢
 - [`.resolves()`](https://jestjs.io/docs/expect#resolves)
 
 ---
 
-- 🔴
+- 🟢
 - [`.rejects()`](https://jestjs.io/docs/expect#rejects)
 
 ---
